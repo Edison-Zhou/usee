@@ -1,0 +1,3 @@
+type=command
+mainclass=cn.usee.biz.detail.DetailPageRecommend
+command=sh ${working.dir}/../../bin/submit.sh ${mainclass} zhou.zhenyu_${mainclass} --env ${env}
